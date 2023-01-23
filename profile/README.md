@@ -5,7 +5,7 @@
 
 We welcome and are **OPEN TO ALL**, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. **Our goal** is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a [friendly, safe and welcoming environment to all from everywhere in the World](https://opensource.com/article/21/8/beginner-open-source-community).
 
-You are inviteted to join us in our discussions! Feel free to [#Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) or [Request Membership](https://github.com/orgs/FearlessTech/discussions/4) to FearlessTech. You could just stop in to say Hi! Please make sure to follow our [Code of Conduct](https://github.com/anitab-org/anitab-org.github.io/blob/develop/docs/code_of_conduct.md). All of our Public Respositorys are open source and you are more then welcome  to join in on the build in anyway you would like. If you would like to help program, just comment on the issue (if there is not an issue, feel free to make one). If you would like to learn/teach, just ask or answer a question. If you would to improve our UI|UX or security, shout out from a discussion. 
+You are inviteted to join us in our discussions! Feel free to [Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) or [Request Membership](https://github.com/orgs/FearlessTech/discussions/4) to FearlessTech in our open discussions. You could just stop in to say Hi! Please make sure to follow our [Code of Conduct](https://github.com/FearlessTech/.github/blob/main/code_of_conduct.md). All of our Public Respositorys are open source and you are more then welcome  to join in on the build in anyway you would like. If you would like to help program, just comment on the issue (if there is not an issue, feel free to make one). If you would like to learn/teach, just ask or answer a question. If you would to improve our UI|UX or security, shout out from a discussion. 
 
 ### ✨ How you can contribute
 
@@ -27,8 +27,8 @@ Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech+
 
 :four_leaf_clover: Hi! I'm 4-Leafs-Code and a Jr Full Stack Developer. Click here to view my [profile](https://github.com/4-Leafs-Code) and I'll advise you to check out my [BookMarks Repo](https://github.com/4-Leafs-Code/MyBookMarks).
 
-:: Hi! I'm Ronnie018 and a Jr WebDev. Click here to view my [profile](https://github.com/Ronnie018) and I'll advise you to check out my []().
+:star2: Hi! I'm Ronnie018 and a Jr WebDev. Click here to view my [profile](https://github.com/Ronnie018).
 
-:: Hi! I'm ashwaryy and a full stack web developer. Click here to view my [profile](https://github.com/ashwaryy).
+:trophy: Hi! I'm ashwaryy and a full stack web developer. Click here to view my [profile](https://github.com/ashwaryy).
 
-:: Hi! I'm ShashwatAgrawal20 and I'm a passionate developer & Ethical hacker. Click here to view my [profile](https://github.com/ShashwatAgrawal20) and I'll advise you to check out my []().
+:lock: Hi! I'm ShashwatAgrawal20 and I'm a passionate developer & Ethical hacker. Click here to view my [profile](https://github.com/ShashwatAgrawal20).
