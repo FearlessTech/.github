@@ -29,6 +29,6 @@ Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech+
 
 :: Hi! I'm Ronnie018 and a Jr WebDev. Click here to view my [profile](https://github.com/Ronnie018) and I'll advise you to check out my []().
 
-:: Hi! I'm ashwaryy and a {...}. Click here to view my [profile](https://github.com/ashwaryy) and I'll advise you to check out my []().
+:: Hi! I'm ashwaryy and a full stack web developer. Click here to view my [profile](https://github.com/ashwaryy).
 
 :: Hi! I'm ShashwatAgrawal20 and I'm a passionate developer & Ethical hacker. Click here to view my [profile](https://github.com/ShashwatAgrawal20) and I'll advise you to check out my []().
