@@ -27,7 +27,7 @@ Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech+
 
 :four_leaf_clover: Hi! I'm 4-Leafs-Code and a Jr Full Stack Developer. Click here to view my [profile](https://github.com/4-Leafs-Code) and I'll advise you to check out my [BookMarks Repo](https://github.com/4-Leafs-Code/MyBookMarks).
 
-:star2: Hi! I'm Ronnie018 and a Jr WebDev. Click here to view my [profile](https://github.com/Ronnie018).
+:wolf: Hi! I'm Ronnie018 and a Jr WebDev. Click here to view my [profile](https://github.com/Ronnie018).
 
 :trophy: Hi! I'm ashwaryy and a full stack web developer. Click here to view my [profile](https://github.com/ashwaryy).
 
