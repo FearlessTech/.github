@@ -21,7 +21,7 @@ You are inviteted to join us in our discussions! Feel free to [Pitch a Project](
 * Suggest **design** improvements for our apps.
 * Read [our publications on Medium](https://medium.com/@Shashwat_Agrawal)
 
-Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech+is%3Aopen+label%3A%22Status%3A+Available%22&type=issues)!
+Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech&type=issues)!
 
 ## Co-Owner Information
 
