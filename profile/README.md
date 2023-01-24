@@ -29,6 +29,6 @@ Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech+
 
 :wolf: Hi! I'm Ronnie018 and a Jr WebDev. Click here to view my [profile](https://github.com/Ronnie018).
 
-:trophy: Hi! I'm ashwaryy and a full stack web developer. Click here to view my [profile](https://github.com/ashwaryy).
+:trophy: Hi! I'm ashwaryy and a full stack web developer currently working at an AI startup based in India. Click here to view my [profile](https://github.com/ashwaryy).
 
 :lock: Hi! I'm ShashwatAgrawal20 and I'm a passionate developer & Ethical hacker. Click here to view my [profile](https://github.com/ShashwatAgrawal20).
