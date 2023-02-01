@@ -32,3 +32,15 @@ Check out our [Available issues](https://github.com/search?q=org%3Afearlesstech+
 :trophy: Hi! I'm ashwaryy and a full stack web developer currently working at an AI startup based in India. Click here to view my [profile](https://github.com/ashwaryy).
 
 :lock: Hi! I'm ShashwatAgrawal20 and I'm a passionate developer & Ethical hacker. Click here to view my [profile](https://github.com/ShashwatAgrawal20).
+
+ <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">&nbsp; Views and Followers :eyes:</h2>
+
+<p align="center">
+    
+<a href="https://github.com/FearlessTech/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=FearlessTech">
+</a>
+    <a href="https://github.com/FearlessTech?tab=followers">
+        <img src="https://img.shields.io/github/followers/FearlessTech?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+</p>
