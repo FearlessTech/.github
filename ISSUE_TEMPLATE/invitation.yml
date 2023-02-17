@@ -1,7 +1,7 @@
 name: Invitation to join FearlessTech
 description: I would like to be part of this awesome community
 title: "Please invite me to FearlessTech"
-labels: [organization invite]
+labels: [welcome]
 body:
   - type: input
     id: name
