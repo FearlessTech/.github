@@ -9,10 +9,14 @@ We welcome and are **OPEN TO ALL**, including UI/UX designers, developers, teste
 <table>
   <tr>
     <td>
-    <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
+    </td>
+    <td>
     <h3>💖 Become a part of the FearlessTech Community 💖</h3>
     <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=organization+invite&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
-    <img width="900" height="0">
+    </td>
+    <td>
+      <img align="left" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/718/296/datas/original.png" width="150">
     </td>
   </tr>
 </table>
