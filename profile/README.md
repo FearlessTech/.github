@@ -5,7 +5,19 @@
 
 We welcome and are **OPEN TO ALL**, including UI/UX designers, developers, testers, and beyond to participate in creating social impact products. **Our goal** is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a [friendly, safe and welcoming environment to all from everywhere in the World](https://opensource.com/article/21/8/beginner-open-source-community).
 
-You are inviteted to join us in our discussions! Feel free to [Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) or [Request Membership](https://github.com/orgs/FearlessTech/discussions/4) to FearlessTech in our open discussions. You could just stop in to say Hi! Please make sure to follow our [Code of Conduct](https://github.com/FearlessTech/.github/blob/main/code_of_conduct.md). All of our Public Respositorys are open source and you are more then welcome  to join in on the build in anyway you would like. If you would like to help program, just comment on the issue (if there is not an issue, feel free to make one). If you would like to learn/teach, just ask or answer a question. If you would to improve our UI|UX or security, shout out from a discussion. 
+
+<table>
+  <tr>
+    <td>
+    <img align="left" src="https://raw.githubusercontent.com/codinasion/.github/master/assets/octocat.png" width="150">
+    <h3>💖 Become a part of this commUnity 💖</h3>
+    <a href="https://github.com/FearlessTech/.github/issues/new?assignees=&labels=organization+invite&template=invitation.yml&title=Please+invite+me+to+FearlessTech" alt="join_us">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-JOIN%20US-green?style=for-the-badge&logo=github" width="150"></a>
+    <img width="900" height="0">
+    </td>
+  </tr>
+</table>
+
+You are inviteted to join us in our discussions! Feel free to [Pitch a Project](https://github.com/orgs/FearlessTech/discussions/3) to FearlessTech in our open discussions. You could just stop in to say Hi! Please make sure to follow our [Code of Conduct](https://github.com/FearlessTech/.github/blob/main/code_of_conduct.md). All of our Public Respositorys are open source and you are more then welcome  to join in on the build in anyway you would like. If you would like to help program, just comment on the issue (if there is not an issue, feel free to make one). If you would like to learn/teach, just ask or answer a question. If you would to improve our UI|UX or security, shout out from a discussion. 
 
 ### ✨ How you can contribute
 
